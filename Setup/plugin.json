@@ -1,0 +1,7 @@
+{
+"title": "Hello World",
+"version": "1.00",
+"name": "HelloWorld",
+"description": "Hello World plugin for ImpressPages. Includes public, site and admin controllers.",
+"author": "ImpressPages"
+}
